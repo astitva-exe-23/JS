@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url(hh.gif);
+   /* background-image: url(hh.gif);*/
     width: 100%;
 }
 .body.background-image{
